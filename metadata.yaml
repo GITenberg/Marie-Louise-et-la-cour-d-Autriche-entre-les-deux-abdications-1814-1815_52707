@@ -1,5 +1,8 @@
 _repo: Marie-Louise-et-la-cour-d-Autriche-entre-les-deux-abdications-1814-1815_52707
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52707-h/images/cover.jpg
 creator:
   author:
     agent_name: Méneval, Claude-François, baron de
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '8559'
     url: http://www.gutenberg.org/2009/agents/8559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52707#Marie-Louise-et-la-cour-d-Autriche-entre-les-deux-abdications-1814-1815
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2016-08-02'
 gutenberg_type: Text
